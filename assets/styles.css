@@ -1,0 +1,59 @@
+
+.navbar-brand {
+    padding-left: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 30px;
+}
+
+.nav-item {
+ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+img {
+    margin-left: 40px;
+    padding-top: 20px;
+    display: block;
+}
+
+h2 {
+    padding: 20px;
+    margin: 0 auto;
+    border-bottom-style: solid;
+    border-bottom-color: lightslategray;
+    border-bottom-width: 2px;
+}
+
+body {
+    background-image: url("mekong-green.png");
+}
+
+.container {
+    max-width: 960px;
+    background-color: white;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightslategray;
+}
+
+p {
+    padding-top: 20px;
+    max-width: 900px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    background-color: darkcyan;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    position: relative;
+    bottom: 0;
+}
